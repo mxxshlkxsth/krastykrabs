@@ -33,5 +33,13 @@ namespace фото
             users.FormClosed += new FormClosedEventHandler(form_FormClosed);
             this.Hide();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form users = new Form4();
+            users.Show();
+            users.FormClosed += new FormClosedEventHandler(form_FormClosed);
+            this.Hide();
+        }
     }
 }

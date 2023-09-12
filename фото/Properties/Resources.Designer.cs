@@ -83,6 +83,16 @@ namespace фото.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap danyanow {
+            get {
+                object obj = ResourceManager.GetObject("danyanow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap kostya15ago {
             get {
                 object obj = ResourceManager.GetObject("kostya15ago", resourceCulture);
@@ -96,6 +106,16 @@ namespace фото.Properties {
         internal static System.Drawing.Bitmap kostya5ago {
             get {
                 object obj = ResourceManager.GetObject("kostya5ago", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kostyanow {
+            get {
+                object obj = ResourceManager.GetObject("kostyanow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

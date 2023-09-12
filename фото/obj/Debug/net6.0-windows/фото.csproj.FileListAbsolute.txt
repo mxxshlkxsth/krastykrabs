@@ -37,3 +37,4 @@
 \\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\фото\obj\Debug\net6.0-windows\фото.genruntimeconfig.cache
 \\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\фото\obj\Debug\net6.0-windows\ref\фото.dll
 \\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\фото\obj\Debug\net6.0-windows\фото.Form3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\фото\obj\Debug\net6.0-windows\фото.Form4.resources

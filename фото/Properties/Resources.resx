@@ -127,7 +127,13 @@
   <data name="kostya15ago" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kostya15ago.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="kostyanow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kostyanow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="danya5ago" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\danya5ago.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="danyanow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\danyanow.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
