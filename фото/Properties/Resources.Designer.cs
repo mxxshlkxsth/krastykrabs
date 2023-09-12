@@ -73,9 +73,29 @@ namespace фото.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap danya5ago {
+            get {
+                object obj = ResourceManager.GetObject("danya5ago", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap kostya15ago {
             get {
                 object obj = ResourceManager.GetObject("kostya15ago", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kostya5ago {
+            get {
+                object obj = ResourceManager.GetObject("kostya5ago", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
