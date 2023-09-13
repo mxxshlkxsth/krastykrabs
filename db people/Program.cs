@@ -32,6 +32,14 @@ namespace db_people
             public static string Foto = "Foto";
         }
 
+        static class foto_table
+        {
+            public static string main = "People";
+            public static string ID = "ID";
+            public static string Name = "Name";
+            public static string Foto = "Foto";
+        }
+
 
     }
 }

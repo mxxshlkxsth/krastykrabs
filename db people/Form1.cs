@@ -19,6 +19,8 @@ namespace db_people
         {
             DB = new SQLiteConnection(Database.connectionString);
             await DB.OpenAsync();
+
+
         }
 
         static class Database //строка подключения БД
@@ -34,7 +36,34 @@ namespace db_people
             public static string Foto = "Foto";
         }
 
+        static class foto_table
+        {
+            public static string main = "People";
+            public static string ID = "ID";
+            public static string Foto = "Foto";
+        }
+
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
+        {
+            SQLiteDataAdapter dataAdapter = new SQLiteDataAdapter("SELECT * FROM foto", DB);
+            DataSet ds = new DataSet();
+            DataTable dt = new DataTable();
+
+            dataAdapter.Fill(dt);
+            dataGridView2.DataSource = dt;
+            dataGridView2.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+
+            dataAdapter.Fill(ds, "Info");
+            dataGridView2.DataSource = ds.Tables[0];
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
             SQLiteDataAdapter dataAdapter = new SQLiteDataAdapter("SELECT * FROM People", DB);
             DataSet ds = new DataSet();
