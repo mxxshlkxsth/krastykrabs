@@ -1,0 +1,14 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\bin\Debug\db people.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\bin\Debug\db people.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\bin\Debug\db people.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db_people.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db_people.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\mdk 03 01\krastykrabs\db people\obj\Debug\db people.pdb
