@@ -58,6 +58,7 @@ namespace db_people
             dataAdapter.Fill(dt);
             dataGridView2.DataSource = dt;
             dataGridView2.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridView2.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
 
             dataAdapter.Fill(ds, "Info");
             dataGridView2.DataSource = ds.Tables[0];
