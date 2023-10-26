@@ -31,13 +31,15 @@ namespace The_best_programm
             List<string> selectedDishes = new List<string>();
             List<string> prices = new List<string>();
 
+            double total_price = 0;
+
             foreach (object selectedDish in checkedListBox2.CheckedItems)
             {
                 string Dishes = selectedDish.ToString();
 
                 if (Dishes != "")
                 {
-                    string price = "";
+                    double price = 0;
 
                     using (SQLiteCommand commandGetPrice = new SQLiteCommand($"SELECT * FROM [{table_Menu.main}] WHERE [{table_Menu.Name}]=@Name", DB))
                     {
@@ -46,7 +48,7 @@ namespace The_best_programm
                         {
                             if (await sqlReaderPrice.ReadAsync())
                             {
-                                price = sqlReaderPrice[table_Menu.Price].ToString();
+                                _ = double.TryParse(sqlReaderPrice[table_Menu.Price].ToString(), out price);
                             }
                             else
                             {
@@ -56,18 +58,18 @@ namespace The_best_programm
                     }
 
                     selectedDishes.Add(Dishes);
-                    prices.Add(price);
+                    total_price += price;
                 }
             }
 
             string dishesLine = string.Join(",", selectedDishes);
-            string pricesLine = string.Join(",", prices);
+            
 
             using (SQLiteCommand commandInsert = new SQLiteCommand($"INSERT INTO [{table_Order.main}] ([{table_Order.Dishes}], [Price], [Number], [User], [Waiter]) " +
                 $"VALUES (@Dishes, @Price, @Number, @User, @Waiter)", DB))
             {
                 _ = commandInsert.Parameters.AddWithValue("Dishes", dishesLine);
-                _ = commandInsert.Parameters.AddWithValue("Price", pricesLine);
+                _ = commandInsert.Parameters.AddWithValue("Price", total_price);
                 _ = commandInsert.Parameters.AddWithValue("Number", $"{DataUser.number}");
                 _ = commandInsert.Parameters.AddWithValue("User", $"{DataUser.name}");
                 _ = commandInsert.Parameters.AddWithValue("Waiter", "Мария");

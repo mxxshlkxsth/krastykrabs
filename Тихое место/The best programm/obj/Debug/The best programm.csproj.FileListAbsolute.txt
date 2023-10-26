@@ -228,3 +228,24 @@ E:\прога\Тихое место\The best programm\obj\Debug\The best program
 E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.CopyComplete
 E:\прога\Тихое место\The best programm\obj\Debug\The best programm.exe
 E:\прога\Тихое место\The best programm\obj\Debug\The best programm.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\bin\Debug\The best programm.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\bin\Debug\The best programm.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\bin\Debug\The best programm.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormCr.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormUser.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\krastykrabs\Тихое место\The best programm\obj\Debug\The best programm.pdb
