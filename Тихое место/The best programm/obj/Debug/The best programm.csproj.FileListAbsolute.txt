@@ -1,0 +1,230 @@
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCreate.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+F:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCreate.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCreate.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+E:\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCreate.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+C:\Users\robot\Desktop\МДК 3\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+E:\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\robot\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3 (версия после)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\ваня\Desktop\МДК 3 (версия после)22\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe.config
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.exe
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\The best programm.pdb
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.exe
+E:\МДК 3 (1 готовая версия)\МДК лучшее приложение в мире\The best programm\The best programm\obj\Debug\The best programm.pdb
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\bin\Debug\The best programm.exe.config
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\bin\Debug\The best programm.exe
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\bin\Debug\The best programm.pdb
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormCr.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormUser.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.exe
+C:\Users\User\Desktop\Мошков Титенев МДК 02.03\МДК 03.02 Ресторан (1 версия)\The best programm\The best programm\obj\Debug\The best programm.pdb
+E:\прога\Тихое место\The best programm\bin\Debug\The best programm.exe.config
+E:\прога\Тихое место\The best programm\bin\Debug\The best programm.exe
+E:\прога\Тихое место\The best programm\bin\Debug\The best programm.pdb
+E:\прога\Тихое место\The best programm\bin\Debug\System.Data.SQLite.dll
+E:\прога\Тихое место\The best programm\bin\Debug\System.Data.SQLite.xml
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.AssemblyReference.cache
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.SuggestedBindingRedirects.cache
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormCabinet.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormCr.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormLogin.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormAdmin.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormUser.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormWaiter.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormCourier.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.FormRegistration.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The_best_programm.Properties.Resources.resources
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.GenerateResource.cache
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.CoreCompileInputs.cache
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.csproj.CopyComplete
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.exe
+E:\прога\Тихое место\The best programm\obj\Debug\The best programm.pdb
