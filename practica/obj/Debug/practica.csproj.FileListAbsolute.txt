@@ -44,3 +44,31 @@ E:\Geography\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
 E:\Geography\practica\obj\Debug\practica.csproj.CopyComplete
 E:\Geography\practica\obj\Debug\practica.exe
 E:\Geography\practica\obj\Debug\practica.pdb
+F:\Geography\practica — копия\obj\Debug\practica.csproj.AssemblyReference.cache
+F:\Geography\practica — копия\obj\Debug\practica.csproj.SuggestedBindingRedirects.cache
+F:\Geography\practica — копия\obj\Debug\practica.AdminCountry.resources
+F:\Geography\practica — копия\obj\Debug\practica.countryForm.resources
+F:\Geography\practica — копия\obj\Debug\practica.Form1.resources
+F:\Geography\practica — копия\obj\Debug\practica.FormAdmin.resources
+F:\Geography\practica — копия\obj\Debug\practica.LoginForm.resources
+F:\Geography\practica — копия\obj\Debug\practica.nationForm.resources
+F:\Geography\practica — копия\obj\Debug\practica.popuForm.resources
+F:\Geography\practica — копия\obj\Debug\practica.Properties.Resources.resources
+F:\Geography\practica — копия\obj\Debug\practica.csproj.GenerateResource.cache
+F:\Geography\practica — копия\obj\Debug\practica.csproj.CoreCompileInputs.cache
+F:\Geography\practica — копия\obj\Debug\practica.exe
+F:\Geography\practica — копия\obj\Debug\practica.pdb
+F:\Geography\practica — копия\bin\Debug\practica.exe.config
+F:\Geography\practica — копия\bin\Debug\practica.exe
+F:\Geography\practica — копия\bin\Debug\practica.pdb
+F:\Geography\practica — копия\bin\Debug\EntityFramework.dll
+F:\Geography\practica — копия\bin\Debug\EntityFramework.SqlServer.dll
+F:\Geography\practica — копия\bin\Debug\System.Data.SQLite.dll
+F:\Geography\practica — копия\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Geography\practica — копия\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Geography\practica — копия\bin\Debug\EntityFramework.xml
+F:\Geography\practica — копия\bin\Debug\EntityFramework.SqlServer.xml
+F:\Geography\practica — копия\bin\Debug\System.Data.SQLite.xml
+F:\Geography\practica — копия\obj\Debug\practica.csproj.CopyComplete
+F:\Geography\practica — копия\obj\Debug\practica.NationAdmin.resources
+F:\Geography\practica — копия\obj\Debug\practica.PopuAdmin.resources

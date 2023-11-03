@@ -65,6 +65,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminCountry.Designer.cs">
+      <DependentUpon>AdminCountry.cs</DependentUpon>
+    </Compile>
     <Compile Include="countryForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,11 +83,35 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NationAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NationAdmin.Designer.cs">
+      <DependentUpon>NationAdmin.cs</DependentUpon>
+    </Compile>
     <Compile Include="nationForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="nationForm.Designer.cs">
       <DependentUpon>nationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopuAdmin.Designer.cs">
+      <DependentUpon>PopuAdmin.cs</DependentUpon>
     </Compile>
     <Compile Include="popuForm.cs">
       <SubType>Form</SubType>
@@ -91,14 +121,29 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminCountry.resx">
+      <DependentUpon>AdminCountry.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="countryForm.resx">
       <DependentUpon>countryForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NationAdmin.resx">
+      <DependentUpon>NationAdmin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="nationForm.resx">
       <DependentUpon>nationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopuAdmin.resx">
+      <DependentUpon>PopuAdmin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="popuForm.resx">
       <DependentUpon>popuForm.cs</DependentUpon>
