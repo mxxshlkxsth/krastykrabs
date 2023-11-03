@@ -1,0 +1,46 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\practica.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\practica.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\practica.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\EntityFramework.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\System.Data.SQLite.EF6.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\System.Data.SQLite.Linq.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\EntityFramework.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.countryForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.nationForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.popuForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Агафонов Данилов\Geography\practica\obj\Debug\practica.csproj.CopyComplete
+E:\Geography\practica\bin\Debug\practica.exe.config
+E:\Geography\practica\bin\Debug\practica.exe
+E:\Geography\practica\bin\Debug\practica.pdb
+E:\Geography\practica\bin\Debug\EntityFramework.dll
+E:\Geography\practica\bin\Debug\EntityFramework.SqlServer.dll
+E:\Geography\practica\bin\Debug\System.Data.SQLite.dll
+E:\Geography\practica\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Geography\practica\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Geography\practica\bin\Debug\EntityFramework.xml
+E:\Geography\practica\bin\Debug\EntityFramework.SqlServer.xml
+E:\Geography\practica\bin\Debug\System.Data.SQLite.xml
+E:\Geography\practica\obj\Debug\practica.csproj.AssemblyReference.cache
+E:\Geography\practica\obj\Debug\practica.csproj.SuggestedBindingRedirects.cache
+E:\Geography\practica\obj\Debug\practica.countryForm.resources
+E:\Geography\practica\obj\Debug\practica.Form1.resources
+E:\Geography\practica\obj\Debug\practica.nationForm.resources
+E:\Geography\practica\obj\Debug\practica.popuForm.resources
+E:\Geography\practica\obj\Debug\practica.Properties.Resources.resources
+E:\Geography\practica\obj\Debug\practica.csproj.GenerateResource.cache
+E:\Geography\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
+E:\Geography\practica\obj\Debug\practica.csproj.CopyComplete
+E:\Geography\practica\obj\Debug\practica.exe
+E:\Geography\practica\obj\Debug\practica.pdb
